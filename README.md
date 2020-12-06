@@ -2,4 +2,4 @@
 
 ### Repositorio para Magic Home.
 
-Por favor, visite magichome.app para conocer los productos disponibles.
+Por favor, visite https://magichome.app para conocer los productos disponibles.
